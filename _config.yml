@@ -1,0 +1,38 @@
+typography_spectrum: 0.21680801834874222
+color:
+  brandStrength: 0.6669721038683807
+  lightness: 0.8049173296982478
+  saturation: 0.6149524161328405
+  rhythmicContrast: 0.9759830371133688
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+github: true
+layout_spectrum: 0.3310274821422109
+analytics:
+  google: UA-79126334-1
+author:
+  name: Kristoffer Rose Svarre
+  email: ksvarre@gmail.com
+  url: 'https://www.linkedin.com/in/ksvarre'
+name: Technology & Science
+navigation:
+  - name: Home
+    url: 'http://think-like.me'
+    type: external
+  - name: Motivation & Personal Development
+    url: 'http://development.think-like.me'
+    type: external
+  - name: 'Business, Innovation & Entrepreneurship'
+    url: 'http://business.think-like.me'
+    type: external
+  - name: About Me
+    url: 'https://www.linkedin.com/in/ksvarre'
+    type: external
+title: Technology & Science
+content: []
+description: internet. artificial intelligence. scientific discoveries.
+purpose: []

@@ -19,7 +19,7 @@ author:
   email: ksvarre@gmail.com
   url: 'https://www.linkedin.com/in/ksvarre'
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c02f7dd-cadd-4c93-9798-509f44f543c5.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/596ef80a-2ab5-4c95-822d-d1feb6ce92c2.png
 name: Technology & Science
 navigation:
   - name: Home
@@ -35,7 +35,7 @@ navigation:
     url: 'https://www.linkedin.com/in/ksvarre'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ca9903b-91c3-40d6-88d6-7acabd1d6f61.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f586508-cf95-4e5e-945b-97b1914a5635.png
 collections:
   - index:
       path: /

@@ -1,23 +1,25 @@
-layout_spectrum: 0.6045032101904623
-typography_spectrum: 0.5658468128946417
+typography_spectrum: 0.4510947629966137
 color:
-  brandStrength: 0.10426035573576937
-  lightness: 0.02495297470508088
-  saturation: 0.6113599391533339
-  rhythmicContrast: 0.4173807906603791
+  saturation: 0.12771887429833118
+  brandStrength: 0.610380907830146
+  rhythmicContrast: 0.04936891418641968
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
+    - '#000000'
     - '#FFFFFF'
-    - '#F26101'
+    - '#725700'
+    - '#FC2E8D'
+    - '#E6B600'
+  lightness: 0.11930901388361091
 github: true
+layout_spectrum: 0.23649111656619623
 analytics:
   google: UA-79126334-1
 author:
   name: Kristoffer Rose Svarre
   email: ksvarre@gmail.com
   url: 'https://www.linkedin.com/in/ksvarre'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c02f7dd-cadd-4c93-9798-509f44f543c5.png
 name: Technology & Science
 navigation:
   - name: Home
@@ -32,6 +34,20 @@ navigation:
   - name: About Me
     url: 'https://www.linkedin.com/in/ksvarre'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ca9903b-91c3-40d6-88d6-7acabd1d6f61.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 title: Technology & Science
 content: []
 description: internet. artificial intelligence. scientific discoveries.

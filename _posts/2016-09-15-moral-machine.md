@@ -10,8 +10,8 @@ keywords: []
 description: Click here to play the moral machine game…
 app_links: []
 title: Moral Machine
-datePublished: '2016-12-19T16:51:38.553Z'
-dateModified: '2016-12-19T16:51:38.022Z'
+datePublished: '2016-12-19T16:51:40.168Z'
+dateModified: '2016-12-19T16:51:39.512Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-09-15-moral-machine.md

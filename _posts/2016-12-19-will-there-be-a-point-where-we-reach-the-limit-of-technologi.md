@@ -4,13 +4,19 @@ author:
     url: 'http://facebook.com/203906229622591'
     avatar: {}
 related: []
-publisher: {}
+publisher:
+  url: 'http://www.facebook.com'
+  name: Facebook
+  favicon: 'https://www.facebook.com/rsrc.php/yV/r/hzMapiNYYpW.ico'
+  domain: www.facebook.com
 keywords: []
-description: ''
+description: >-
+  Will there be a point where we reach the limit of technological progress? If
+  so, are we anywhere near that limit now?
 title: ''
 app_links: []
-datePublished: '2016-12-19T16:40:09.365Z'
-dateModified: '2016-12-19T16:40:08.857Z'
+datePublished: '2016-12-19T16:41:22.580Z'
+dateModified: '2016-12-19T16:41:22.066Z'
 via: {}
 inFeed: true
 hasPage: true
@@ -23,7 +29,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdkEFrwzAMhf9KEDTHxEs6lqR1x2Ad7N77cGMlNnMtYzv1-u9nkp0GOkjvfU8gHfXkxQ2L4EcOKkYXhrpOKVWTGPFK9F2NdKudWWZtQ33XEqlyyr0qjxNf-V37tms-cv1PZelyfj_LZRRRk83jGg-5edqzhrX7vus71r-wNktl0jIq_sxYGRSlr4g_kU_CBCwV6llF3nSsFM59Sig2FjIMxZ8L2YYixIdBDlfyEv1gyeKB7ugnQ2lQWkq0mRk9GaPtzMESFOv9W4BDXiFMhi9e2OCERzs-OES_IJyO9far0y8X1Giv" height="244" style=""></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTEDEducation%2Fvideos%2F1402034989809703%2F&width=500&show_text=false&height=280&appId" width="500" height="280" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 > Will there be a point where we reach the limit of technological progress? If so, are we anywhere near that limit now?
 

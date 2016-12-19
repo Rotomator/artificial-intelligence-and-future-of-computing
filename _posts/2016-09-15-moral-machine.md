@@ -7,11 +7,11 @@ publisher:
   favicon: 'http://moralmachine.mit.edu/images/favicon.ico'
   domain: moralmachine.mit.edu
 keywords: []
-description: Click here to play the moral game…
+description: Click here to play the moral machine game…
 app_links: []
 title: Moral Machine
-datePublished: '2016-12-19T16:51:30.640Z'
-dateModified: '2016-12-19T16:51:29.953Z'
+datePublished: '2016-12-19T16:51:38.553Z'
+dateModified: '2016-12-19T16:51:38.022Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-09-15-moral-machine.md
@@ -27,4 +27,4 @@ _type: MediaObject
 
 ---
 
-Click here to play the moral game...
+Click here to play the moral machine game...

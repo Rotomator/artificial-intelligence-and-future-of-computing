@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-19T16:46:48.905Z'
+datePublished: '2016-12-19T16:46:50.140Z'
 sourcePath: _posts/2016-05-17-the-artificial-intelligence-revolution-part-1-wait-but-wh.md
 keywords:
   - computer
@@ -17,7 +17,7 @@ author:
   - name: Tim Urban
     url: 'http://waitbutwhy.com/author/timurban'
     avatar: {}
-dateModified: '2016-12-19T16:46:48.179Z'
+dateModified: '2016-12-19T16:46:49.565Z'
 title: >-
   The Artificial Intelligence Revolution: Part 1 - The AI Revolution: The Road
   to Superintelligence

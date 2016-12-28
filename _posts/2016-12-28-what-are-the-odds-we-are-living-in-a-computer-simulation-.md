@@ -31,13 +31,13 @@ app_links: []
 isBasedOnUrl: >-
   http://www.newyorker.com/books/joshua-rothman/what-are-the-odds-we-are-living-in-a-computer-simulation
 title: What Are the Odds We Are Living in a Computer Simulation? - The New Yorker
-datePublished: '2016-12-28T10:31:38.823Z'
-dateModified: '2016-11-21T08:12:20.216Z'
+datePublished: '2016-12-28T10:48:11.367Z'
+dateModified: '2016-12-28T10:48:10.003Z'
 via: {}
 inFeed: true
+sourcePath: _posts/2016-12-28-what-are-the-odds-we-are-living-in-a-computer-simulation-.md
 starred: false
 datePublishedOriginal: '2016-12-28T10:31:38.823Z'
-sourcePath: _posts/2016-12-28-what-are-the-odds-we-are-living-in-a-computer-simulation-.md
 _context: 'http://schema.org'
 _type: MediaObject
 

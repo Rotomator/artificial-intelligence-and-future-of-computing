@@ -21,8 +21,8 @@ description: Click here to read full article…
 inLanguage: en
 app_links: []
 title: 'Going dark: online privacy and anonymity for normal people'
-datePublished: '2016-12-19T16:48:11.090Z'
-dateModified: '2016-12-19T16:48:10.620Z'
+datePublished: '2016-12-28T10:48:11.512Z'
+dateModified: '2016-12-28T10:48:10.003Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-10-29-going-dark-online-privacy-and-anonymity-for-normal-people.md

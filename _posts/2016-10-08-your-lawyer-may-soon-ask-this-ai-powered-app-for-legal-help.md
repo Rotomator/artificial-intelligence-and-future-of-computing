@@ -24,8 +24,8 @@ description: Click here to read the full article…
 inLanguage: en
 app_links: []
 title: Your Lawyer May Soon Ask This AI-Powered App for Legal Help
-datePublished: '2016-12-19T16:50:14.574Z'
-dateModified: '2016-12-19T16:50:14.038Z'
+datePublished: '2016-12-28T10:48:11.512Z'
+dateModified: '2016-12-28T10:48:10.003Z'
 via: {}
 inFeed: true
 sourcePath: >-

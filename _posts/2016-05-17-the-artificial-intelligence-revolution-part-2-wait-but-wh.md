@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-19T16:47:30.157Z'
+datePublished: '2016-12-28T10:48:11.417Z'
 sourcePath: _posts/2016-05-17-the-artificial-intelligence-revolution-part-2-wait-but-wh.md
 keywords:
   - asi
@@ -17,7 +17,7 @@ author:
   - name: Tim Urban
     url: 'http://waitbutwhy.com/author/timurban'
     avatar: {}
-dateModified: '2016-12-19T16:47:29.563Z'
+dateModified: '2016-12-28T10:48:10.003Z'
 title: >-
   The Artificial Intelligence Revolution: Part 2 - The AI Revolution: Our
   Immortality or Extinction

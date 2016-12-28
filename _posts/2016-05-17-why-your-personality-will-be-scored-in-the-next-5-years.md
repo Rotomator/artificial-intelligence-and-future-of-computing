@@ -22,8 +22,8 @@ description: Click here to read the full article…
 inLanguage: en
 app_links: []
 title: Why your personality will be scored in the next 5 years
-datePublished: '2016-12-19T16:48:49.081Z'
-dateModified: '2016-12-19T16:48:48.403Z'
+datePublished: '2016-12-28T10:48:11.465Z'
+dateModified: '2016-12-28T10:48:10.003Z'
 sourcePath: _posts/2016-05-17-why-your-personality-will-be-scored-in-the-next-5-years.md
 via: {}
 inFeed: true

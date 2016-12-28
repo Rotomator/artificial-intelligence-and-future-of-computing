@@ -22,8 +22,8 @@ description: Click here to read the full article…
 inLanguage: en
 app_links: []
 title: Scientists Just Invented the Neural Lace
-datePublished: '2016-12-19T16:50:49.965Z'
-dateModified: '2016-12-19T16:50:49.457Z'
+datePublished: '2016-12-28T10:48:11.516Z'
+dateModified: '2016-12-28T10:48:10.003Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-09-15-scientists-just-invented-the-neural-lace.md

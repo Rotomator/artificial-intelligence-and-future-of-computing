@@ -34,13 +34,13 @@ app_links:
     namespace: ai
 isBasedOnUrl: 'https://www.yahoo.com/tech/difference-between-4g-lte-151510777.html'
 title: What's the difference between 4G and LTE?
-datePublished: '2016-12-21T12:45:20.540Z'
-dateModified: '2016-12-21T12:44:13.444Z'
-datePublishedOriginal: '2016-12-21T12:45:20.540Z'
+datePublished: '2016-12-28T10:48:11.499Z'
+dateModified: '2016-12-28T10:48:10.003Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-21-whats-the-difference-between-4g-and-lte.md
+starred: false
+datePublishedOriginal: '2016-12-21T12:45:20.540Z'
 _context: 'http://schema.org'
 _type: MediaObject
 

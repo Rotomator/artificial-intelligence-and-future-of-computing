@@ -1,12 +1,4 @@
-name: Technology & Science
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f586508-cf95-4e5e-945b-97b1914a5635.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/596ef80a-2ab5-4c95-822d-d1feb6ce92c2.png
-layout_spectrum: 0.23649111656619623
 typography_spectrum: 0.4510947629966137
-analytics:
-  google: UA-79126334-1
 color:
   brandColors:
     - '#000000'
@@ -18,13 +10,17 @@ color:
   lightness: 0.11930901388361091
   saturation: 0.12771887429833118
   rhythmicContrast: 0.04936891418641968
-purpose: []
-title: Technology & Science
-description: internet. artificial intelligence. scientific discoveries.
+github: true
+layout_spectrum: 0.23649111656619623
+analytics:
+  google: UA-79126334-1
 author:
   name: Kristoffer Rose Svarre
   url: 'https://www.linkedin.com/in/ksvarre'
   email: ksvarre@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/596ef80a-2ab5-4c95-822d-d1feb6ce92c2.png
+name: Technology & Science
 navigation:
   - name: Home
     url: 'http://think-like.me'
@@ -41,5 +37,12 @@ navigation:
   - name: About Me
     url: 'https://www.linkedin.com/in/ksvarre'
     type: external
+  - name: Crypto Economics & Blockchain Technology
+    url: 'https://crypto.think-like.me'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f586508-cf95-4e5e-945b-97b1914a5635.png
+title: Technology & Science
 content: []
-github: true
+description: internet. artificial intelligence. scientific discoveries.
+purpose: []

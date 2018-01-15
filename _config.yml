@@ -27,7 +27,7 @@ author:
   email: ksvarre@gmail.com
 navigation:
   - name: Home
-    url: 'http://think-like.me'
+    url: 'https://think-like.me'
     type: external
   - name: Motivation & Personal Development
     url: 'http://development.think-like.me'
